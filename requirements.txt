@@ -1,0 +1,9 @@
+Flask
+scikit-learn
+pandas
+requests
+groq
+numpy
+pandas
+markdown
+sklearn
