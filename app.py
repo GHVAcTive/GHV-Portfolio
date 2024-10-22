@@ -152,6 +152,3 @@ def get_plan():
 @app.route('/medicine_finder')
 def medicine_finder():
     return render_template('Medicine_Finder.html')
-
-if __name__ == '__main__':
-    app.run(debug=True)
